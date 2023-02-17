@@ -13,7 +13,7 @@ const questions = [
   },
   {
     type: 'input',
-    message: 'Write description of your project.',
+    message: 'Write a description of your project.',
     name: 'description',
   },
   {
@@ -30,7 +30,6 @@ const questions = [
     type: 'list',
     message: 'What license do you want ot use?',
     name: 'license',
-    choices: ["MIT", "GNU", "Open", "Mozilla"]
   },
   {
     type: 'input',
@@ -47,8 +46,8 @@ const questions = [
     message: 'Who to do if I have a questions about the app?',
     name: 'questions',
   }
-];
-
+]
+.then(data)
 
 // function to write README file
 function writeToFile(fileName, data) {
