@@ -2,7 +2,6 @@ const fs = require("fs");
 const path = require('path');
 const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
-const utils = require("utils");
 
 // array of questions for user
 const questions = [
@@ -27,7 +26,7 @@ const questions = [
     name: 'usage',
   },
   {
-    type: 'list',
+    type: 'input',
     message: 'What license do you want ot use?',
     name: 'license',
   },
@@ -47,16 +46,15 @@ const questions = [
     name: 'questions',
   }
 ]
-.then(data)
 
 // function to write README file
 function writeToFile(fileName, data) {
-
+  fs.writeFileSync(fileName, data)
 }
 
 // function to initialize program
 function init() {
-
+  
 }
 
 // function call to initialize program
