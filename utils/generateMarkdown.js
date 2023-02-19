@@ -17,15 +17,15 @@ function generateMarkdown(data) {
 * [Questions](#questions)
 
 ## Installation
-To install necessary dependencies, run the following command:
+To install the app, do the following:
 ${data.installation}
 
 ## Usage
-You can use this applicaiton by running: 
+You can use this applicaiton by: 
 ${data.usage}
 
 ## License
-This project is licensed under the ${data.licese} license.
+This project is licensed under the ${data.license} license.
 
 ## Contributing
 ${data.contributing}
@@ -35,8 +35,7 @@ To run tests, run the following command:
 ${data.tests}
 
 ## Questions
-If you have any questions about the repo, open an issue or contact me directly at maggie@w. You can find more of my work at maggie@w
-${data.questions}
+If you have any questions about the repo, contact me at: ${data.questions}.
 `;
 }
 

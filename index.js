@@ -42,7 +42,7 @@ const questions = [
   },
   {
     type: 'input',
-    message: 'Who to do if I have a questions about the app?',
+    message: 'Add email to contact you, if questions about the app',
     name: 'questions',
   }
 ]
