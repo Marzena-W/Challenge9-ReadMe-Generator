@@ -30,6 +30,12 @@ This project is licensed under the MIT license.
 You can contribute to this app by creating a pull request. Follow the below steps: Fork the repo - Create a feature branch (git checkout -b name-of-the-branch) - Commit your new branch - Push your branch - Create a new Pull Request
 
 ## Tests
+> Google drive link
+
+https://drive.google.com/file/d/1okzbfBzS9juBQgASOQZc-Y9oO5VRy6w2/view?usp=sharing
+
+> My gif
+![](https://github.com/Marzena-W/challenge9-ReadMe-Generator/blob/main/readme.gif)
 
 
 
