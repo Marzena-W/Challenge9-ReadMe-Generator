@@ -23,8 +23,7 @@ Clone the repo with  git clone Create a .gitignore file and include node_mod
 You can use this applicaiton by: 
 The application will be invoked by using the following command: node index.js Answer the prompts in your command line to generate the README. After answering all the prompts, the README.md file will be ready at the repo's root.
 
-![] 
-https://github.com/Marzena-W/readme-generator/blob/main/readme.gif
+<img src="./readme.gif">
 
 
 ## License
