@@ -26,13 +26,12 @@ The application will be invoked by using the following command: node index.js An
 ![] 
 https://github.com/Marzena-W/readme-generator/blob/main/readme.gif
 
+
 ## License
 This project is licensed under the MIT license.
 
 ## Contributing
 You can contribute to this app by creating a pull request. Follow the below steps: Fork the repo - Create a feature branch (git checkout -b name-of-the-branch) - Commit your new branch - Push your branch - Create a new Pull Request
-
-
 
 ## Questions
 If you have any questions about the repo, contact me at: maggie@w.
