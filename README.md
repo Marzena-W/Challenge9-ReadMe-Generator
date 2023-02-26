@@ -18,8 +18,7 @@
 Clone the repo with  git clone Create a .gitignore file and include node_modules/ and .DS_Store/ so that your node_modules directory isn't tracked or uploaded to GitHub. Be sure to create your .gitignore file before installing any npm dependencies. Make sure that your repo includes a package.json with the required dependencies. You can create one by running npm init when you first set up the project, before installing any dependencies.
 
 ## Usage
-> You can use this applicaiton by: 
-To generate the README file, you need to execute the following command in your terminal: "node index.js". This will invoke the application and prompt you to provide the necessary information through the command line interface. Once you have provided all the required information, the application will automatically generate the README.md file and save it at the root directory of your repository.
+> To generate the README file, you need to execute the following command in your terminal: "node index.js". This will invoke the application and prompt you to provide the necessary information through the command line interface. Once you have provided all the required information, the application will automatically generate the README.md file and save it at the root directory of your repository.
 
 <a href=https://drive.google.com/file/d/1okzbfBzS9juBQgASOQZc-Y9oO5VRy6w2/view target="_blank">Video Link</a><br>
 <img src="./readme.gif">
