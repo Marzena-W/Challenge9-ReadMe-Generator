@@ -39,6 +39,3 @@ Clone the repo with  git clone Create a .gitignore file and include node_mod
 4. Push your feature branch to your forked repository using the command "git push origin name-of-the-branch".
 
 5. Finally, create a new pull request by navigating to your forked repository on GitHub and clicking the "New pull request" button. This will allow you to submit your changes for review by the repository owner. Be sure to include a detailed description of your changes in the pull request so that the owner can easily understand what you've done.
- 
-## Questions
-> If you have any questions about the repo, contact me at: maggie@w.
