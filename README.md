@@ -20,6 +20,7 @@ Clone the repo with  git clone Create a .gitignore file and include node_mod
 ## Usage
 > To generate the README file, you need to execute the following command in your terminal: "node index.js". This will invoke the application and prompt you to provide the necessary information through the command line interface. Once you have provided all the required information, the application will automatically generate the README.md file and save it at the root directory of your repository.
 
+## Tests
 <a href=https://drive.google.com/file/d/1okzbfBzS9juBQgASOQZc-Y9oO5VRy6w2/view target="_blank">Video Link</a><br>
 <img src="./readme.gif">
 
